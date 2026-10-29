@@ -436,11 +436,6 @@ Contributions and suggestions are welcome.
 
 ---
 
-## 📄 License
-
-Choose a license appropriate for your project before publishing the repository. If you intend to use the MIT License, add a `LICENSE` file containing its terms.
-
----
 
 ## 👨‍💻 Author
 
